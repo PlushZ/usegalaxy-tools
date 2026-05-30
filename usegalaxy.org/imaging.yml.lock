@@ -799,6 +799,7 @@ tools:
   owner: ufz
   revisions:
   - 59f7f9164544
+  - 7e7fc68b169a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_get_value

@@ -11,6 +11,7 @@ tools:
   - 3719606b94af
   - 375c36923da1
   - 499a039871d0
+  - 73af7d202e2a
   - 871957823d0c
   - 975512caae22
   - a48e750cfd25
@@ -26,6 +27,7 @@ tools:
   revisions:
   - 13b9963b3e24
   - 2c6624cae3c5
+  - 328ff3a13078
   - 8729f69e9207
   - 94cd9ac4a9b1
   - bbf30253c99f
@@ -44,6 +46,7 @@ tools:
   - 11fdac5affb3
   - 15707141e7da
   - 169276b820cc
+  - 1dfc3ad13f43
   - 209b663a4f62
   - 49f73a3c12f3
   - 4bd75b45a7a1
@@ -71,6 +74,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7d16a7bd5f41
   - 7d78a6afc958
   - afd0864d18b6
   - c5c324ac29fc
@@ -97,6 +101,7 @@ tools:
   - 980bf31faa05
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   - eae46976fbb8
   tool_panel_section_id: machine_learning
@@ -105,6 +110,7 @@ tools:
   owner: bgruening
   revisions:
   - 00b2ee48b412
+  - 00d1889e9ecc
   - 01131463df86
   - 0c933465d70e
   - 2a853a2d2e72
@@ -134,6 +140,7 @@ tools:
   - c51571d0a0b1
   - e4af79bffd57
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -144,6 +151,7 @@ tools:
   - 1252578525d1
   - 305c1229ac99
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -169,6 +177,7 @@ tools:
   owner: bgruening
   revisions:
   - 1b68acd5ac08
+  - 418cafc53f8e
   - 443471b0a27a
   - 4d1637cac794
   - 77125cbb54ac
@@ -187,6 +196,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 3881482e568e
   - 5a125d1ac9b9
@@ -210,6 +220,7 @@ tools:
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132
+  - 7e5631773cea
   - 805194c3cdfb
   - 845dfafac355
   - 887e0aaa482e
@@ -225,6 +236,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 61461e52c923
   - 6d23883e0b94
   - 73d2ef652879
@@ -243,6 +255,7 @@ tools:
   - 04b160a26690
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - 86c5b627ddb6
@@ -271,6 +284,7 @@ tools:
   - d37a7f17e35d
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
@@ -280,6 +294,7 @@ tools:
   - 118e230e85ce
   - 1ed23c988ff6
   - 3f25f37ee3db
+  - 43a859a0fab5
   - 4c4ec859c31a
   - 7388ffedf12c
   - 7442b94d6a1e
@@ -299,6 +314,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 7366e5108e9f
   - 7614281473da
@@ -321,6 +337,7 @@ tools:
   - 7ae443e6217d
   - 823ecc0bce45
   - 8b1b2b91f8d0
+  - 900c42c3eef4
   - 9871a634540f
   - aa83e7e3c398
   - cd02bf168d23
@@ -330,6 +347,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 2d7c60aa6c62
   - 73e7f1c76ece
@@ -370,6 +388,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -395,6 +414,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   - f2234165a453
   tool_panel_section_id: machine_learning
@@ -548,6 +568,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 1d2a478bb514
   - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
