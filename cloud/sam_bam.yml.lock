@@ -106,6 +106,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 68a116f469db
   - 84819580b8a5
   - bc0cc7bfbfe9
@@ -117,6 +118,7 @@ tools:
   owner: iuc
   revisions:
   - 491037bfc0d2
+  - 4bde991b8037
   - 66e23b11feae
   - 9038311ed624
   - a8d69aee190e
