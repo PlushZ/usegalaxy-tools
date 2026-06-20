@@ -240,6 +240,7 @@ tools:
   - 7608d5faee41
   - 8b917923f7d4
   - b83fbc90161e
+  - bb9a4270e288
   - d45f092caf24
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -261,6 +262,7 @@ tools:
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
+  - e5cd122b7555
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory
@@ -708,6 +710,7 @@ tools:
   revisions:
   - 0db84eba4b55
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
