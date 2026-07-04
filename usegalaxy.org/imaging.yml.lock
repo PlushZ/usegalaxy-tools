@@ -460,6 +460,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw
   owner: imgteam
   revisions:
+  - 231ca4c088d9
   - f068e9171af2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -467,18 +468,21 @@ tools:
   owner: imgteam
   revisions:
   - 1f92b1da556b
+  - 93cb13a320fe
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_find_maxima
   owner: imgteam
   revisions:
   - 4409f9eb9433
+  - 8bc0b21938d6
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_align
   owner: imgteam
   revisions:
   - 711adedc5bb8
+  - a13240a1a6d3
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_watershed_binary
@@ -502,12 +506,14 @@ tools:
 - name: imagej2_analyze_skeleton
   owner: imgteam
   revisions:
+  - 3f5741e550e9
   - 50f2b961b192
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compare_elastic
   owner: imgteam
   revisions:
+  - c1c7a81ba4e5
   - f9f2d9746a01
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -810,6 +816,7 @@ tools:
 - name: omero_import
   owner: ufz
   revisions:
+  - 75c2257023e8
   - c36a954d0e59
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
