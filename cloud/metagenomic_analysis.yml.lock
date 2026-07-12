@@ -54,6 +54,7 @@ tools:
   owner: iuc
   revisions:
   - 00e3b4ef7e0c
+  - 45f6d77d37b7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
@@ -72,6 +73,7 @@ tools:
 - name: metabat2
   owner: iuc
   revisions:
+  - c63e45a190b5
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -85,6 +87,7 @@ tools:
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin
@@ -105,6 +108,7 @@ tools:
 - name: drep_dereplicate
   owner: iuc
   revisions:
+  - 8165eab19456
   - f54e7b3da33c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -156,6 +160,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 27ac516ba719
   - 5029fd9d572e
   - 738474880da8
   - 9b3e1acc3ad0
@@ -173,6 +178,7 @@ tools:
   revisions:
   - 4e469b758915
   - a204f3983d22
+  - d000854331fe
   - e7c2674e01fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -187,6 +193,7 @@ tools:
 - name: dada2_learnerrors
   owner: iuc
   revisions:
+  - 1fb4fc5e64d6
   - 68129ce1c59b
   - a14a18a47c36
   - dd6572434618
@@ -197,6 +204,7 @@ tools:
   revisions:
   - 47198090501e
   - 89d11e95a9b1
+  - 9010b9e13dec
   - b35a5e8ff0fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -213,6 +221,7 @@ tools:
   revisions:
   - 0b1ce4edabc7
   - 88677f452aea
+  - d49e0de76bf5
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -229,6 +238,7 @@ tools:
   revisions:
   - 213a3fda0b91
   - 390bc2645138
+  - 86d6d6cda803
   - 9180d536e20d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -238,6 +248,7 @@ tools:
   - 705d26fbea02
   - 9f306361a58e
   - ce4bfce70e64
+  - e0aea8e800d7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
@@ -315,6 +326,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 78990897aa94
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
