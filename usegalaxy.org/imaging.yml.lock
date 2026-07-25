@@ -431,6 +431,7 @@ tools:
   owner: imgteam
   revisions:
   - 5f5b7185bc16
+  - efbe484bc683
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_create_image
@@ -442,12 +443,14 @@ tools:
 - name: imagej2_noise
   owner: imgteam
   revisions:
+  - 2b32aaa9a8b1
   - 73cc4e6a741d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -805,11 +808,13 @@ tools:
   owner: ufz
   revisions:
   - a41878cb0a6e
+  - afc11b6940e2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_import
   owner: ufz
   revisions:
+  - 75c2257023e8
   - c36a954d0e59
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
