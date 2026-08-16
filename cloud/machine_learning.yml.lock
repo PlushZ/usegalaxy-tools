@@ -19,6 +19,7 @@ tools:
   - 5023535e9f8b
   - 69c44aab684e
   - 7626ea9c2e1b
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: plotly_parallel_coordinates_plot
@@ -31,6 +32,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 1a53edc4b438
@@ -46,6 +48,7 @@ tools:
 - name: tabular_learner
   owner: goeckslab
   revisions:
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 4bd75b45a7a1
   - ba45bc057d70
@@ -64,6 +67,7 @@ tools:
   - 85e6f4b2ad18
   - 8729f69e9207
   - 9e912fce264c
+  - a2e4242653ec
   - b0d893d04d4c
   - bbf30253c99f
   - c460abae83eb
