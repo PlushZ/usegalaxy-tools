@@ -13,6 +13,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 822954de3f59
   - b8c00ce5dfa0
   - d5887ace0dd4
@@ -67,6 +68,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - bfab6f5b449d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -136,6 +138,7 @@ tools:
   - 408ece2e4647
   - 8e422c873d02
   - 936a1edffce8
+  - 9491362ac1cd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: purge_dups
