@@ -6,6 +6,7 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
+  - 29e12b90949d
   - 30d90b851d3c
   - cc05793bb896
   - f4d5237a84f6
@@ -28,6 +29,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
+  - 05f9e54d7e81
   - 2275d0688bca
   - 6a3a025714d3
   - 6c363db8c702
