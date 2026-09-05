@@ -113,6 +113,7 @@ tools:
   - 6ef0b5664c69
   - a3b86937ead6
   - ab9350a8ab4d
+  - afa26d1f6809
   - dad9da48a09a
   - e3cbd2287f63
   tool_panel_section_id: metagenomic_analysis
@@ -181,6 +182,7 @@ tools:
 - name: cat_contigs
   owner: iuc
   revisions:
+  - 1254b1db9afc
   - 7aebc0137f20
   - c6c77d840993
   - f41dbb0b9ff8
@@ -480,6 +482,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3548a93b39c1
   - 3725f7f2be35
@@ -614,6 +617,7 @@ tools:
   owner: iuc
   revisions:
   - a040f2dc705c
+  - c63e45a190b5
   - eb50e7eca3dc
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
@@ -954,6 +958,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_biom

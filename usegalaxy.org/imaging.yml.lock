@@ -424,6 +424,7 @@ tools:
 - name: imagej2_analyze_particles_binary
   owner: imgteam
   revisions:
+  - 0601a9056642
   - 862af85a50ec
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -460,6 +461,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw
   owner: imgteam
   revisions:
+  - 231ca4c088d9
   - f068e9171af2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -533,6 +535,7 @@ tools:
   owner: imgteam
   revisions:
   - 418b1fa32b83
+  - f4e396f032fc
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_elastic
