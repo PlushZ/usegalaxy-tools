@@ -8,6 +8,7 @@ tools:
   revisions:
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
@@ -54,6 +55,7 @@ tools:
   owner: iuc
   revisions:
   - 00e3b4ef7e0c
+  - 45f6d77d37b7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
@@ -203,6 +205,7 @@ tools:
 - name: dada2_mergepairs
   owner: iuc
   revisions:
+  - 2495262244bd
   - 273b8a00c8a2
   - 646c58820267
   - c920e1400f98
@@ -213,6 +216,7 @@ tools:
   revisions:
   - 0b1ce4edabc7
   - 88677f452aea
+  - d49e0de76bf5
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -243,6 +247,7 @@ tools:
 - name: mash_sketch
   owner: iuc
   revisions:
+  - 9c102da4ca13
   - 9de5319ad2db
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -315,6 +320,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 76ad4572eea4
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
