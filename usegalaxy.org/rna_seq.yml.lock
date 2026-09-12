@@ -86,6 +86,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 29e12b90949d
   - 30d90b851d3c
   - 49121db48873
   - 7fdb9d1591e2
@@ -102,6 +103,7 @@ tools:
   - 4f9c4e6566e5
   - 60f888039fb2
   - c971db6f0fe5
+  - f71c54748ff2
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: kallisto_pseudo

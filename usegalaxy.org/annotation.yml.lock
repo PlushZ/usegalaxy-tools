@@ -160,6 +160,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -413,6 +414,7 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
