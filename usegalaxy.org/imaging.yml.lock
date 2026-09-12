@@ -34,6 +34,7 @@ tools:
   owner: imgteam
   revisions:
   - 85edbb7a436b
+  - f0242f99a175
   - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
@@ -437,6 +438,7 @@ tools:
   owner: imgteam
   revisions:
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_noise
@@ -485,6 +487,7 @@ tools:
   owner: imgteam
   revisions:
   - 29aca8eebdaa
+  - b92f57ebf6c8
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_raw_transform

@@ -132,6 +132,7 @@ tools:
 - name: hicexplorer_hicconvertformat
   owner: bgruening
   revisions:
+  - 0d0c6092cc43
   - 2ba6cee8e4db
   - 574f295b5ba4
   - a83732c79949
@@ -241,6 +242,7 @@ tools:
   owner: bgruening
   revisions:
   - 11fa44ee0603
+  - 7011782fdbaf
   - 977dc15add20
   - 9d93c8fbe0a6
   - f72063d9426b
