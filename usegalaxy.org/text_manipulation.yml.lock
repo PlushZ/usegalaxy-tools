@@ -64,6 +64,7 @@ tools:
   - 0a8c6b61f0f4
   - 12615d397df7
   - 20344ce0c811
+  - 30b60202d990
   - 3dc70b59608c
   - 6073bb457ec0
   - 60edf2f8c28f
@@ -102,6 +103,7 @@ tools:
 - name: jq
   owner: iuc
   revisions:
+  - 4e62e523c2b6
   - 5ff75eb1a893
   - 8c505f8f2977
   tool_panel_section_id: text_manipulation

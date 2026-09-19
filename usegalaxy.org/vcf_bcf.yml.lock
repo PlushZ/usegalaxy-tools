@@ -380,6 +380,7 @@ tools:
   - 94e91cca87b2
   - 99f4a81a47be
   - a12844ca467a
+  - ecb9cfd7b005
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_stats
@@ -498,6 +499,7 @@ tools:
   - 5660b21a0dbd
   - a0c219ecb5e7
   - bf533509c5b6
+  - cd06642e9c20
   - ce9396ddcb2b
   - f59a4ab0e5b1
   - f65383c7ed49
@@ -510,6 +512,7 @@ tools:
   - 3f6fadf8b8ff
   - 3f7900995059
   - 4813f99d81b7
+  - 64e76575fb9a
   - ade0d3c3ec1c
   - b781fa08aa3c
   - be6b217710af
