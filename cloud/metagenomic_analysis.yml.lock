@@ -8,6 +8,7 @@ tools:
   revisions:
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
@@ -116,6 +117,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - bef32ef81f43
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_lineage_wf
@@ -229,6 +231,7 @@ tools:
   revisions:
   - 213a3fda0b91
   - 390bc2645138
+  - 86d6d6cda803
   - 9180d536e20d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -249,6 +252,7 @@ tools:
 - name: mash_paste
   owner: iuc
   revisions:
+  - 618969c1d8e1
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -268,6 +272,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: sylph_profile
@@ -315,6 +320,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 76ad4572eea4
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

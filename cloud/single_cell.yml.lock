@@ -52,6 +52,7 @@ tools:
   - 13cf83ced60c
   - 3701d29f7105
   - 55e35e9203cf
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - d0a337ddf062
@@ -111,6 +112,7 @@ tools:
   revisions:
   - 05631436cdf1
   - 0f1aaff9b22d
+  - 27f120c69246
   - 4c9fa3c63d9e
   - 70228646a181
   - a7b951572609
@@ -146,6 +148,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 2b0d3e2f402a
   - 41f34e925bd5
   - c7ddb719554d
@@ -173,6 +176,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 72979cac22b2
