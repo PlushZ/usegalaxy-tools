@@ -174,6 +174,7 @@ tools:
   - 33c0081e16c6
   - 383dcb0500f9
   - 39e945f0b2c1
+  - 3a9aee9e3551
   - 6f0d0c784f09
   - 9301df6f892d
   - a54b3bac44aa
@@ -187,6 +188,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 7e8c677a7b71
   - 8db95f488f0f
   - 9ef202055d5c
@@ -231,6 +233,7 @@ tools:
   - 7e014059a88d
   - a4b734cd253b
   - c4f39bf4a068
+  - d2755d6016ca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_filtnormconf
@@ -266,6 +269,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 44b935f2271b
