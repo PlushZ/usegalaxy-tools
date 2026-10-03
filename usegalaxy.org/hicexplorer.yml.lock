@@ -306,6 +306,7 @@ tools:
   - 58de3c7c8e89
   - 8d203e74869b
   - a10fce08c2dc
+  - bb9e080ae77b
   - e285920f8585
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -344,6 +345,7 @@ tools:
   revisions:
   - 1de2276f633f
   - 27fe5cd1729c
+  - a4b4bb07ed14
   - df64cc4dfb4d
   - f36828ebdc54
   tool_panel_section_id: hicexplorer
