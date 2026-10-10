@@ -14,6 +14,7 @@ tools:
   - 5f9c0e99016f
   - 6fabdcde0214
   - 8334dc98c48e
+  - 9276346ed061
   - a536d2736c2d
   - c7655b5a94af
   - c80db5d6fd8c
@@ -43,6 +44,7 @@ tools:
 - name: jbrowse
   owner: iuc
   revisions:
+  - 1483285bdb7a
   - 17359b808b01
   - 1cfc579079a6
   - 2bb2e07a7a21
@@ -147,6 +149,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -368,6 +371,7 @@ tools:
   - cec274db51c0
   - d08080933718
   - dc3fe98e7b37
+  - dd032687675c
   - e188a9d25ed2
   - e237edee9a53
   - ed3a21033188

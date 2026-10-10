@@ -91,6 +91,7 @@ tools:
   owner: nml
   revisions:
   - 05c394313b1c
+  - 434f2a6c3ade
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -202,6 +203,7 @@ tools:
   - 85fb02c43042
   - 8cc856b935ee
   - b40b77418372
+  - c4e781659379
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -234,6 +236,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -248,6 +251,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -270,6 +274,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -364,6 +369,7 @@ tools:
   - 02831bf9e95f
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -450,6 +456,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   - bfab6f5b449d
   tool_panel_section_id: assembly
@@ -476,6 +483,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -535,6 +543,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
