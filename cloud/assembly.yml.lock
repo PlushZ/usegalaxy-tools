@@ -13,6 +13,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 822954de3f59
   - b8c00ce5dfa0
   - d5887ace0dd4
@@ -106,6 +107,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 5d365d5cbe9d
   - baf229b1fdfd
   - e5e767089163
