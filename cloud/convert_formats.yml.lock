@@ -21,6 +21,7 @@ tools:
 - name: tooldistillator_summarize
   owner: iuc
   revisions:
+  - 3a66889baf43
   - 3d0223265277
   - a4506449c300
   - e58dc53cb0c7
@@ -57,6 +58,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 6153e8ada1ee
   - 8edfcbf32616
