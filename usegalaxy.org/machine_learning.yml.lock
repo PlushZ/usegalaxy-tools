@@ -117,6 +117,7 @@ tools:
   - b9906ce4756c
   - bedbda03c573
   - f22a9297440f
+  - fb731872d453
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_builder
@@ -144,6 +145,7 @@ tools:
   - 1252578525d1
   - 305c1229ac99
   - 3814a92c1416
+  - 3fbbea66522d
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -158,6 +160,7 @@ tools:
   owner: bgruening
   revisions:
   - 253b3aaf0d91
+  - 848d5a2bdf61
   - ae4b593c99f8
   - b78007bf1cb8
   - b8378d4791b7
@@ -194,6 +197,7 @@ tools:
   - 867caa39eaa4
   - 89deaf399ff7
   - 9fda0b82f419
+  - aa243478bb94
   - adaf2457d6ec
   - bd27a211182a
   - c9ddd20d25d0
@@ -207,6 +211,7 @@ tools:
   - 0474777be433
   - 30f892a9b46d
   - 4b359039f09f
+  - 5a26080a4f96
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132
@@ -335,6 +340,7 @@ tools:
   - 73e7f1c76ece
   - 7dd3fb35904f
   - 86d4c2b66e16
+  - 88bd281cdf65
   - 8eed73e8e04d
   - 981a0328d6bb
   - ad7e0b4291ee
@@ -472,6 +478,7 @@ tools:
   - d3fe6fcc6bf4
   - d4808d5b83da
   - dc4b5fd604a6
+  - fd703ccdab66
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_fit
@@ -518,6 +525,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 6ff5b1978b0c
   - 9a3cb21a3661
   - bfc44324a773
   - c2a7717d96ce
@@ -612,6 +620,7 @@ tools:
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111
+  - a1478b43a349
   - b7e93c1deb3f
   - e6893a4bcb7b
   tool_panel_section_id: machine_learning
