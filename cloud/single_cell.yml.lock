@@ -76,6 +76,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -204,6 +205,7 @@ tools:
   - 71ce24befa24
   - 88c07fc4024c
   - a896b8b7d264
+  - d421497303c0
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: slice_image
