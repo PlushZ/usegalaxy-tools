@@ -47,6 +47,7 @@ tools:
   revisions:
   - 4daabc25df00
   - 5b097fde95dd
+  - baa38def0230
   - d6694932c5e0
   - d9c2b2fde6a3
   tool_panel_section_id: multiple_alignments
@@ -175,6 +176,7 @@ tools:
   revisions:
   - 2b1884fdb849
   - 7ca2e72f9194
+  - a8a248f95e66
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: ucsc_maffetch
@@ -201,6 +203,7 @@ tools:
 - name: ucsc_maftoaxt
   owner: iuc
   revisions:
+  - 1acacc1a3d70
   - bb486fb0103d
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments

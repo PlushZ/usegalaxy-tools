@@ -361,6 +361,7 @@ tools:
   - 9180d536e20d
   - a7817705348e
   - d943081510da
+  - dc4e8088b896
   - f74c56549143
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -718,6 +719,7 @@ tools:
   revisions:
   - 2715e89adff4
   - 32f892954ef6
+  - 47fffb4462d8
   - 5007bc8a3d90
   - bbd9d1022144
   - cee4982a717b
@@ -933,6 +935,7 @@ tools:
 - name: drep_compare
   owner: iuc
   revisions:
+  - cef09cb5eaff
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -999,6 +1002,7 @@ tools:
   owner: rplanel
   revisions:
   - 71e221c4906c
+  - 9294e401b70a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: iphop_predict

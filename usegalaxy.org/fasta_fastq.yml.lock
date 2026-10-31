@@ -295,6 +295,7 @@ tools:
   revisions:
   - 2d0d13b0b0f1
   - 33794bdb7fe0
+  - 8b70bb07960c
   - b63b2bfb3ea3
   - f0b18efb97f1
   - fe86fb89562d
@@ -475,6 +476,7 @@ tools:
 - name: fasta_regex_finder
   owner: mbernt
   revisions:
+  - 5a6ec4585bc9
   - 9a811adb714f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
