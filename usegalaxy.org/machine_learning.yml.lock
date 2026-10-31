@@ -267,6 +267,7 @@ tools:
   - 5023535e9f8b
   - 69c44aab684e
   - 7626ea9c2e1b
+  - 8eb081549c98
   - a36a45cb96fa
   - d37a7f17e35d
   - e5a5ad882f1f
@@ -289,6 +290,7 @@ tools:
   - 9c3e1d3235c8
   - b1eda492f063
   - bc0117538945
+  - bf5b6f5a18ed
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -518,6 +520,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 6ff5b1978b0c
   - 9a3cb21a3661
   - bfc44324a773
   - c2a7717d96ce
@@ -578,6 +581,7 @@ tools:
   owner: bgruening
   revisions:
   - 03e0da430d44
+  - 1728b4a3895e
   - 24c1cc2dd4a4
   - 3af626081467
   - 945a53c248de

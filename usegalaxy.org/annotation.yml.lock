@@ -7,6 +7,7 @@ tools:
   owner: crs4
   revisions:
   - 111884f0d912
+  - 8096daf9ce73
   - 8a22554cdde2
   - bf68eb663bc3
   - eaee459f3d69
@@ -514,6 +515,7 @@ tools:
 - name: windowmasker
   owner: iuc
   revisions:
+  - 81da9f1757b1
   - d90ae4a02efd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -578,6 +580,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - c03be23045b7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -598,6 +601,7 @@ tools:
 - name: helixer
   owner: genouest
   revisions:
+  - a3586bccb95f
   - c2fc4ac35199
   - cef77c1fe708
   tool_panel_section_id: annotation
@@ -713,6 +717,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 368f47898569
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -725,6 +730,7 @@ tools:
 - name: hmmer_hmmscan
   owner: iuc
   revisions:
+  - 1e365d320176
   - 4a54e4c9188b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -749,6 +755,7 @@ tools:
 - name: hmmer_nhmmscan
   owner: iuc
   revisions:
+  - 67490c1c5e9c
   - fb1305d0d1c6
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
