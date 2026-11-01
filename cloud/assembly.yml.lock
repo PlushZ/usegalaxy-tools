@@ -61,12 +61,14 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 434f2a6c3ade
   - f192c2fbe13f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - bfab6f5b449d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -107,6 +109,7 @@ tools:
   owner: bgruening
   revisions:
   - 5d365d5cbe9d
+  - b562f08eb13a
   - baf229b1fdfd
   - e5e767089163
   - fafc9b2b1657

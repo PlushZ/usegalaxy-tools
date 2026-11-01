@@ -60,6 +60,7 @@ tools:
 - name: fastq_paired_end_interlacer
   owner: devteam
   revisions:
+  - 060e4a536555
   - 2ccb8dcabddc
   - acb5090e281f
   - b41c2c1bcfbf
@@ -76,6 +77,7 @@ tools:
   owner: bgruening
   revisions:
   - 084bbd8ba7b8
+  - 433db23e1c1d
   - b94789823aad
   - cd7e644cae1d
   tool_panel_section_id: fasta_fastq
@@ -190,5 +192,6 @@ tools:
   owner: iuc
   revisions:
   - 1add611a6018
+  - aa95d55b672f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
