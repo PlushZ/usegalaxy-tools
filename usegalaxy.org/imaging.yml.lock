@@ -521,6 +521,7 @@ tools:
   owner: imgteam
   revisions:
   - bd2aadf0f589
+  - c9e87324073c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_make_binary
@@ -587,6 +588,7 @@ tools:
   owner: imgteam
   revisions:
   - 5da9fe99cf02
+  - 910718d4ce13
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: highdicom_dicom2tiff
