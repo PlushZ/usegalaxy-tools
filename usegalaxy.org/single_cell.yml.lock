@@ -187,6 +187,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 7e8c677a7b71
   - 8db95f488f0f
   - 9ef202055d5c
@@ -469,6 +470,7 @@ tools:
   revisions:
   - 04b494623f8e
   - '528052085629'
+  - a8b6292cdffc
   - b0fe3e482cb7
   - c9944a2600f1
   - e32b215b7c04
@@ -575,6 +577,7 @@ tools:
   owner: iuc
   revisions:
   - 29f5f25b9935
+  - 4f1baeda3aca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_barcode
@@ -582,6 +585,7 @@ tools:
   revisions:
   - d0f56ac6bb60
   - d1b34ac42b8f
+  - e188e2c2598b
   - fb61eb03e313
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
