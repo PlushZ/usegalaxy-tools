@@ -55,6 +55,7 @@ tools:
   - 33c0ca93f3ee
   - 8242376d9f35
   - aa252eec9229
+  - ba20f926a460
   - d2b82d89f848
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -79,6 +80,7 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 360836810cd5
   - 3f7790b73906
   - 83c4b4359ac4
   - a6583110825c
@@ -99,6 +101,7 @@ tools:
   owner: recetox
   revisions:
   - 2ec9253a647e
+  - bfdf5de99cd2
   - da7722f665f4
   - f52181a205d3
   tool_panel_section_id: metabolomics
@@ -128,6 +131,7 @@ tools:
   - 1a2aeb8137bf
   - 6fc9f6dbcef5
   - 821062fc5782
+  - 9c417575eb83
   - b77023c41c76
   - bf28a0fc0db6
   - bf32ae95a06f
@@ -145,6 +149,7 @@ tools:
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 4ea32e46b2d6
   - 94eb263cfab4
   - cdab04a1d1d7
@@ -158,6 +163,7 @@ tools:
   - 8846a03995d3
   - 9291271ec4d9
   - c8bef8f6a1cb
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_summary
@@ -167,6 +173,7 @@ tools:
   - 1ae878634ab3
   - 2a2850fdf29e
   - 444e3ed135e3
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice
