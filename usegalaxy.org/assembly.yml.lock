@@ -10,6 +10,7 @@ tools:
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -103,6 +104,7 @@ tools:
   owner: iuc
   revisions:
   - 2dcd07f40204
+  - 691bdc4cc8f0
   - 80d1250bd5fd
   - 8b6d0d85252b
   - 8dee0218ac7d
@@ -114,6 +116,7 @@ tools:
   owner: iuc
   revisions:
   - 11e5408fd238
+  - 868053394d61
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: rnaspades
@@ -129,6 +132,7 @@ tools:
   - 5bd3f053c303
   - 5fc94b3a4704
   - 675ee1aa5952
+  - 87ab790abdf6
   - 9e58ff014088
   - a8a278849c18
   - e122f9101584
@@ -139,6 +143,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 9c9646309b04
   - a9aa4115cb68
   - b65a43f70b99
   - d159735a6a9f
@@ -385,6 +390,7 @@ tools:
   - 7c9417381ad5
   - 9ec9c22767c8
   - c4fb391275a0
+  - da25e82a51a8
   - ff02cf8f66f0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -438,12 +444,14 @@ tools:
   revisions:
   - 015283de3004
   - 24e471d13fe9
+  - 806d8eeb716b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aegean_parseval
   owner: iuc
   revisions:
   - 1b52f0c8ad7f
+  - c8faf125cfa3
   - d6c074a93c51
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -476,6 +484,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -535,6 +544,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -630,6 +640,7 @@ tools:
   revisions:
   - 0cae005d8c4c
   - 73ddd200456a
+  - 92620e417940
   - ec82f2b95e89
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -637,6 +648,7 @@ tools:
   owner: iuc
   revisions:
   - b3c3217c0cbc
+  - e1739974508f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: vgp_chromosome_assignment
@@ -665,11 +677,13 @@ tools:
   revisions:
   - 321ceb58023e
   - 6c1cfce7c2eb
+  - d0f5d9821854
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: fastga
   owner: iuc
   revisions:
+  - 27d750de596d
   - 8f821f9b8567
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
