@@ -29,6 +29,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 354b534eeab7
   - 426d707dfc47
   - 971e07ca4456

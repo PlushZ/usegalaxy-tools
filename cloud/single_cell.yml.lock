@@ -76,6 +76,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -156,6 +157,7 @@ tools:
   owner: iuc
   revisions:
   - 43c146e25a43
+  - 81aacdf3a656
   - 8b917923f7d4
   - b83fbc90161e
   - c891d8b33ede
@@ -186,6 +188,7 @@ tools:
   - a6821f856a1e
   - c8434a623268
   - df8e4e54d367
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: alevin
