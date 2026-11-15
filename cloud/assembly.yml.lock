@@ -50,6 +50,7 @@ tools:
   - 1b1cf0c96501
   - 72472698a2df
   - a3b35edea53a
+  - baeffe7bfe47
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: megahit
@@ -123,6 +124,7 @@ tools:
   revisions:
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 9c942221e135
   - bd07b0d0f568
   - c6cec5ab35c1
@@ -168,6 +170,7 @@ tools:
   owner: iuc
   revisions:
   - 3d1d241ceff2
+  - b507ad3fe6ce
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: shovill
