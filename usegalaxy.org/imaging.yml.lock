@@ -418,6 +418,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw_elastic
   owner: imgteam
   revisions:
+  - 86886859d876
   - bdc70b34153a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -533,11 +534,13 @@ tools:
   owner: imgteam
   revisions:
   - 418b1fa32b83
+  - f4e396f032fc
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_elastic
   owner: imgteam
   revisions:
+  - 71f2b1e4efa4
   - e781a17b3c14
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -550,12 +553,14 @@ tools:
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_elastic_transform
   owner: imgteam
   revisions:
+  - 73b16a95813a
   - f72f8e6787cd
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -593,6 +598,7 @@ tools:
   owner: imgteam
   revisions:
   - 5d840cf51a67
+  - 8f9b3df1c62d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: clip_image
@@ -799,6 +805,7 @@ tools:
   owner: ufz
   revisions:
   - 59f7f9164544
+  - 7e7fc68b169a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_get_value
@@ -810,6 +817,7 @@ tools:
 - name: omero_import
   owner: ufz
   revisions:
+  - 75c2257023e8
   - c36a954d0e59
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -829,5 +837,6 @@ tools:
   owner: ufz
   revisions:
   - 86d6593f54d8
+  - b5fa5c86de56
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

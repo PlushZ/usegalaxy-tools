@@ -11,6 +11,7 @@ tools:
   - 58c35179ebf0
   - 708348a17fa1
   - d6f5fa4ee473
+  - df0082f25f47
   - e827f9aae031
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -38,6 +39,7 @@ tools:
   - 6c19daec423d
   - b12d81af0291
   - f4af63aaf57a
+  - f6ff91cb3120
   - fbf98f24097b
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -51,6 +53,7 @@ tools:
   - 6f66ae7c5f7a
   - 90d16db017d7
   - a37612abf7f9
+  - ce3c9c1ac7ca
   - ce44c6f2ba38
   - ea04b737afa0
   - f3a5f075498f
@@ -62,6 +65,7 @@ tools:
   revisions:
   - 62adf13b86ea
   - 74ec758e63a4
+  - 98fd01004439
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -175,6 +179,7 @@ tools:
   revisions:
   - 4418229c501e
   - 67b0b160903a
+  - 8332c892bd72
   - 8f6836089479
   - 916cb26bd9d3
   - fb117b3ee99a
@@ -281,6 +286,7 @@ tools:
   owner: iuc
   revisions:
   - 72927fc9e9ed
+  - 99ed38e2c2e1
   - d696cf0a9622
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -357,6 +363,7 @@ tools:
   revisions:
   - 29472bde8854
   - 3064aa8755a0
+  - 3811b9bc43fe
   - 5c1fc038df6b
   - 6723249ce1bd
   - 6f480aee5877
@@ -398,6 +405,7 @@ tools:
   - 41db7569b4ba
   - 62b05e565a45
   - 870ac06dff8e
+  - 9fa50484098c
   - b1e9a0355166
   - be3f26533209
   - beafdd47f8cf
@@ -434,6 +442,7 @@ tools:
   - 7c7fbf13aadd
   - 964b7efe2639
   - ba460ccf0006
+  - ff5c4df05bee
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: trinotate
@@ -491,6 +500,7 @@ tools:
   revisions:
   - 05996586c8b3
   - 2b2bfeda00d0
+  - bd21dd94c221
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: chira_extract
@@ -540,6 +550,7 @@ tools:
   - 298d81e5e138
   - b3f292d9f35d
   - d3377a16d881
+  - ecb3e2432f4f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: brew3r_r

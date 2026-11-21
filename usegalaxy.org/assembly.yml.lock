@@ -91,6 +91,7 @@ tools:
   owner: nml
   revisions:
   - 05c394313b1c
+  - 5381d83e9492
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -240,6 +241,7 @@ tools:
   - 822954de3f59
   - b512435320e3
   - b8c00ce5dfa0
+  - d55d7058fb39
   - d5887ace0dd4
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -476,6 +478,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -637,6 +640,7 @@ tools:
   owner: iuc
   revisions:
   - b3c3217c0cbc
+  - e1739974508f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: vgp_chromosome_assignment
@@ -670,6 +674,7 @@ tools:
 - name: fastga
   owner: iuc
   revisions:
+  - 27d750de596d
   - 8f821f9b8567
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
