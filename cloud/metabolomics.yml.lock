@@ -48,6 +48,7 @@ tools:
 - name: mfassignr_recal
   owner: recetox
   revisions:
+  - 91af26deeb98
   - cfcf45ba58be
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -67,12 +68,14 @@ tools:
   owner: lecorguille
   revisions:
   - 9291271ec4d9
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_xcmsset
   owner: lecorguille
   revisions:
   - 3990a65b45a4
+  - 734dfb2af03a
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_merge
@@ -103,6 +106,7 @@ tools:
   owner: melpetera
   revisions:
   - 2e580585782e
+  - 757b6dcfe32a
   - ec75de7f1e08
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -116,6 +120,7 @@ tools:
   owner: lecorguille
   revisions:
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: metams_rungc
