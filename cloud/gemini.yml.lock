@@ -13,6 +13,7 @@ tools:
 - name: gemini_db_info
   owner: iuc
   revisions:
+  - 35da06b44b36
   - 4c5f4e9b1931
   - c2a413e47fe9
   tool_panel_section_id: gemini
