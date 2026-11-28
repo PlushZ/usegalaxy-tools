@@ -42,6 +42,7 @@ tools:
   - d1cd8c147809
   - d86cb2ce311b
   - e4c99c83dfbf
+  - f096e702f7d4
   - f54f0f0598ad
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -261,6 +262,7 @@ tools:
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory
@@ -713,6 +715,7 @@ tools:
 - name: seurat_create
   owner: iuc
   revisions:
+  - 3672004ffdfb
   - ac5f8c583cba
   - af8bdeb89691
   tool_panel_section_id: single_cell
