@@ -559,6 +559,7 @@ tools:
   revisions:
   - 507d59b036c5
   - 7075b7a5441b
+  - 8621b220c13e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: icescreen
@@ -641,6 +642,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -653,6 +655,7 @@ tools:
 - name: coreprofiler_allele_calling
   owner: iuc
   revisions:
+  - 3835ed53fdc9
   - b781bb77a985
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

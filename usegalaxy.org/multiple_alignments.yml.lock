@@ -24,6 +24,7 @@ tools:
   revisions:
   - 1080e07a2233
   - 7adddc6015c1
+  - acb6bbd14094
   - b79f6002b176
   - cfea1d6354db
   tool_panel_section_id: multiple_alignments
@@ -47,6 +48,7 @@ tools:
   revisions:
   - 4daabc25df00
   - 5b097fde95dd
+  - baa38def0230
   - d6694932c5e0
   - d9c2b2fde6a3
   tool_panel_section_id: multiple_alignments
@@ -168,6 +170,7 @@ tools:
   revisions:
   - 0c8a176cd7ca
   - 86d5452a28fb
+  - ac7410c69662
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: ucsc_mafcoverage
@@ -201,6 +204,7 @@ tools:
 - name: ucsc_maftoaxt
   owner: iuc
   revisions:
+  - 3191e6dd3a23
   - bb486fb0103d
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments

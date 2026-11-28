@@ -159,6 +159,7 @@ tools:
   - 4af62516059b
   - 600c14c6dcc5
   - 609770e516fa
+  - 87bde8e578fe
   - d7ea2d0b4917
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -278,6 +279,7 @@ tools:
   - 03450507aa98
   - 7378ce8fb5c1
   - be74be7f5d90
+  - e9a75d725795
   - f7f5cd1ae299
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -978,6 +980,7 @@ tools:
   - 276c9f17a9a2
   - 3767f899f13c
   - 73aeeac872d7
+  - 991715c1a699
   - f6c604b2793e
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -1197,6 +1200,7 @@ tools:
   - 17df89a5847b
   - 54bc4863eb3d
   - 6db50600493e
+  - 7c829f0cd2c7
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_chimera_check

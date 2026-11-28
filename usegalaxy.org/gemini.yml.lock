@@ -22,6 +22,7 @@ tools:
   revisions:
   - 2270a8b83c12
   - 45296e47d565
+  - fa3f688c2e33
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_query
